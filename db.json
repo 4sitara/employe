@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "412.sitara@gmail.com",
+      "mobile": "8310835197",
+      "salary": null
+    },
+    {
+      "id": 3,
+      "firstname": "john",
+      "lastname": "Doe",
+      "email": "412.sitara@gmail.com",
+      "mobile": "8310835197",
+      "salary": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
